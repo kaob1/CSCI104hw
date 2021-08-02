@@ -1,0 +1,3 @@
+For coloring.cpp, I created a program to 4 color a map based on the four-color theorem. My program takes an input file with three parameters on the first line: number of countries, number of rows, and number of columns. Below the first line contains the map. My program is able to print out the map, print out a version of the map with each country's corresponding color, and a list of country and their colors. The program uses recursion and backtracking to find the solution.
+
+MinHeap.h is the header file for a d-ary heap. It contains the basic functions of an ordinary heap such as add, peek, isEmpty, remove. It uses trickleUp and trickleDown helper functions to reorgnize the heap after adding and removing an item.
